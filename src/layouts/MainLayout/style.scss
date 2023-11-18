@@ -1,0 +1,11 @@
+.main-layout-container {
+    &__content {
+        display: flex;
+
+    }
+
+    .right-side {
+        padding: 10px;
+        width: calc(100vw - 250px);
+    }
+}
